@@ -79,7 +79,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   }     
      </style>
      
-<img id="myImage2" style="width:400px; height:auto;"  class="fullscreen" src="https://i.imgur.com/0HOrTYI.jpg" onClick="makeFullScreen2()"></img>   
+<img id="myImage2" style="width:400px; height:auto;"  class="fullscreen" src="https://i.imgur.com/0HOrTYI.jpg" onClick="makeFullScreen2()"> 
 
 ##### H5 For example
 
