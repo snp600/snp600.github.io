@@ -26,7 +26,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   position: fixed;
   top: 10%;
   left: 10%;
-  bottom: 10%
+  //bottom: 10%
   width: 80%;
   //height: auto;
   height: 100vh;
@@ -34,7 +34,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   z-index: 999;
   visibility: hidden;
   opacity: 0;
-  transition: all 0.4s;
+  //transition: all 0.4s;
 }
 #lb-back.show {
   visibility: visible;
