@@ -20,15 +20,15 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 <style>
       .zoomA {
-        width: 600px;
+        width: 800px;
         height: auto;
         transition-duration: 1s;
         transition-timing-function: ease;
       }
       .zoomA:hover {
-        transform: scale(1.2);
+        transform: scale(1.3);
       }
-    </style>
+</style>
 
 
 <img src="https://i.imgur.com/IhXKcal.jpg" class="zoomA"/>
