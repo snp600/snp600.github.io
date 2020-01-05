@@ -13,6 +13,44 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 #### Headings by default:
 
 # H1 For example
+
+<script src="https://github.com/snp600/snp600.github.io/blob/master/js/zoom-D.js"></script>
+<style>
+ .zoomD {
+  width: 600px;
+  height: auto;
+  cursor: pointer;
+}
+
+#lb-back {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.4s;
+}
+#lb-back.show {
+  visibility: visible;
+  opacity: 1;
+}
+#lb-img {
+  text-align: center;
+}
+
+</style>
+
+
+<div id="lb-back">
+    <div id="lb-img"></div>
+</div>
+<img src="https://i.imgur.com/0HOrTYI.jpg" class="zoomD"/>
+
+
 ## H2 For example
 ### H3 For example
 
