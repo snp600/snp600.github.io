@@ -26,8 +26,9 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   position: fixed;
   top: 10%;
   left: 10%;
+  bottom: 10%
   width: 80%;
-  height: 80%;
+  height: auto;
   //height: 100vh;
   background: rgba(0, 0, 0, 0.5);
   z-index: 999;
