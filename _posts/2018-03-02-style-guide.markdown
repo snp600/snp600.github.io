@@ -23,10 +23,9 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 }
 
 #lb-back {
-  position: fixed;
-  top: 10%;
-  left: 10%;
-  bottom: 10%
+  position: center;
+  //margin-top: 10%;
+  //margin-left: 10%;
   width: 80%;
   height: auto;
   //height: 100vh;
@@ -59,7 +58,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 <script src="https://github.com/snp600/snp600.github.io/blob/master/js/tst.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<img data-enlargable style="cursor: zoom-in;         width: 800px;
+<img data-enlargable style="cursor: zoom-in; transition: all 0.4s; width: 800px;
         height: auto;" src="https://i.imgur.com/Hfpe5BJ.jpg" />
 
 #### H4 For example
