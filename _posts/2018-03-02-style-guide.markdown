@@ -17,8 +17,6 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 <script src="https://github.com/snp600/snp600.github.io/blob/master/js/zoom-D.js"></script>
 <style>
  .zoomD {
-  width: 600px;
-  height: auto;
   cursor: pointer;
 }
 
@@ -79,9 +77,9 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   }     
      </style>
 
-<img id="theImage" style="width:400px; height:auto;"  class="fullscreen" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
+<img id="theImage" class="fullscreen" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
 
-<img id="myImage2" style="width:400px; height:auto;"  class="fullscreen" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen2()"> 
+<img id="myImage2" class="fullscreen" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen2()"> 
 
 ##### H5 For example
 
