@@ -98,7 +98,6 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
         transition-timing-function: ease;
       }
       .zoomA:hover {
-        height: 100%; width: 100%;
         transform: scale(1.3);
       }
 </style>
