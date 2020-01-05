@@ -52,12 +52,12 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 
 ## H2 For example
-<img src="https://i.imgur.com/0HOrTYI.jpg" class="zoomD"/>
+<img src="https://i.imgur.com/Hfpe5BJ.jpg" class="zoomD"/>
 ### H3 For example
 
 <script src="https://github.com/snp600/snp600.github.io/blob/master/js/tst.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<img data-enlargable style="cursor: zoom-in" src="https://i.imgur.com/0HOrTYI.jpg" />
+<img data-enlargable style="cursor: zoom-in" src="https://i.imgur.com/Hfpe5BJ.jpg" />
 
 #### H4 For example
 
@@ -79,7 +79,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   }     
      </style>
      
-<img id="myImage2" style="width:400px; height:auto;"  class="fullscreen" src="https://i.imgur.com/0HOrTYI.jpg" onClick="makeFullScreen2()"> 
+<img id="myImage2" style="width:400px; height:auto;"  class="fullscreen" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen2()"> 
 
 ##### H5 For example
 
@@ -96,7 +96,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 </style>
 
 
-<img src="https://i.imgur.com/IhXKcal.jpg" class="zoomA"/>
+<img src="https://i.imgur.com/Hfpe5BJ.jpg" class="zoomA"/>
 
 ###### H6 For example
 
