@@ -24,8 +24,8 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 #lb-back {
   position: fixed;
-  //margin-top: 10%;
-  //margin-left: 10%;
+  top: 10%;
+  left: 10%;
   width: 80%;
   //height: auto;
   height: 100vh;
