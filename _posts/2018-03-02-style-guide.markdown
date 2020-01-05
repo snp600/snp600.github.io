@@ -24,10 +24,11 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 #lb-back {
   position: fixed;
-  top: 0;
-  left: 0;
+  top: 10%;
+  left: 10%;
   width: 80%;
-  height: 100vh;
+  height: 80%;
+  //height: 100vh;
   background: rgba(0, 0, 0, 0.5);
   z-index: 999;
   visibility: hidden;
