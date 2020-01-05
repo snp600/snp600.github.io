@@ -26,7 +26,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   position: fixed;
   top: 0;
   left: 0;
-  width: 50%;
+  width: 80%;
   height: 100vh;
   background: rgba(0, 0, 0, 0.5);
   z-index: 999;
@@ -84,7 +84,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
         height: auto;" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
 
 <img id="myImage2" class="fullscreen" style="width: 800px;
-        height: auto; src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen2()"> 
+        height: auto;" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen2()"> 
 
 ##### H5 For example
 
