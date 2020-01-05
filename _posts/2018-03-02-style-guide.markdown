@@ -60,6 +60,27 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 <img data-enlargable style="cursor: zoom-in" src="https://i.imgur.com/0HOrTYI.jpg" />
 
 #### H4 For example
+
+<style>
+      .fullscreen:-webkit-full-screen {
+      width: auto !important;
+      height: auto !important;
+      margin:auto !important;
+  }
+     .fullscreen:-moz-full-screen {
+      width: auto !important;
+      height: auto !important;
+      margin:auto !important;
+  }
+     .fullscreen:-ms-fullscreen {
+      width: auto !important;
+      height: auto !important;
+      margin:auto !important;
+  }     
+     </style>
+     
+<img id="theImage" style="width:400px; height:auto;"  class="fullscreen" src="https://i.imgur.com/0HOrTYI.jpg" onClick="makeFullScreen()"></img>   
+
 ##### H5 For example
 
 <style>
