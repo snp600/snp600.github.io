@@ -78,7 +78,9 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
       margin:auto !important;
   }     
      </style>
-     
+
+<img id="theImage" style="width:400px; height:auto;"  class="fullscreen" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
+
 <img id="myImage2" style="width:400px; height:auto;"  class="fullscreen" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen2()"> 
 
 ##### H5 For example
