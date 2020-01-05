@@ -17,6 +17,8 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 <script src="https://github.com/snp600/snp600.github.io/blob/master/js/zoom-D.js"></script>
 <style>
  .zoomD {
+         width: 800px;
+        height: auto;
   cursor: pointer;
 }
 
@@ -24,7 +26,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 50%;
   height: 100vh;
   background: rgba(0, 0, 0, 0.5);
   z-index: 999;
@@ -55,7 +57,8 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 <script src="https://github.com/snp600/snp600.github.io/blob/master/js/tst.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<img data-enlargable style="cursor: zoom-in" src="https://i.imgur.com/Hfpe5BJ.jpg" />
+<img data-enlargable style="cursor: zoom-in;         width: 800px;
+        height: auto;" src="https://i.imgur.com/Hfpe5BJ.jpg" />
 
 #### H4 For example
 
@@ -77,9 +80,11 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   }     
      </style>
 
-<img id="theImage" class="fullscreen" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
+<img id="theImage" class="fullscreen" style="width: 800px;
+        height: auto;" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
 
-<img id="myImage2" class="fullscreen" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen2()"> 
+<img id="myImage2" class="fullscreen" style="width: 800px;
+        height: auto; src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen2()"> 
 
 ##### H5 For example
 
