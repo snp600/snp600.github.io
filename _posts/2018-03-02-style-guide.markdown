@@ -34,7 +34,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   z-index: 999;
   visibility: hidden;
   opacity: 0;
-  //transition: all 0.4s;
+  transition: all 0.4s;
 }
 #lb-back.show {
   visibility: visible;
@@ -82,7 +82,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   }     
      </style>
 
-<img id="theImage" class="fullscreen" style="width: 800px;
+<img id="theImage" class="fullscreen" style="transition-duration: 1s; transition: all 0.4s; width: 800px;
         height: auto;" src="https://i.imgur.com/Hfpe5BJ.jpg" onClick="makeFullScreen()"> 
 
 <img id="myImage2" class="fullscreen" style="width: 800px;
