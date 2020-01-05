@@ -17,6 +17,22 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 ### H3 For example
 #### H4 For example
 ##### H5 For example
+
+<style>
+      .zoomA {
+        width: 600px;
+        height: auto;
+        transition-duration: 1s;
+        transition-timing-function: ease;
+      }
+      .zoomA:hover {
+        transform: scale(1.2);
+      }
+    </style>
+
+
+<img src="https://i.imgur.com/IhXKcal.jpg" class="zoomA"/>
+
 ###### H6 For example
 
 {% highlight markdown %}
